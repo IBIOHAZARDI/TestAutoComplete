@@ -1,0 +1,14 @@
+{
+    "login": ["iniciar sesión", "acceso", "entrar", "sign in", "log in"],
+    "iniciar sesión": ["login", "acceso", "entrar", "sign in", "log in"],
+    "acceso": ["login", "iniciar sesión", "entrar", "sign in", "log in"],
+    "entrar": ["login", "iniciar sesión", "acceso", "sign in", "log in"],
+    "sign in": ["login", "iniciar sesión", "acceso", "entrar", "log in"],
+    "log in": ["login", "iniciar sesión", "acceso", "entrar", "sign in"],
+    "consulta": ["inquiry", "query", "indagación", "interrogación", "búsqueda"],
+    "inquiry": ["consulta", "query", "indagación", "interrogación", "búsqueda"],
+    "query": ["consulta", "inquiry", "indagación", "interrogación", "búsqueda"],
+    "indagación": ["consulta", "inquiry", "query", "interrogación", "búsqueda"],
+    "interrogación": ["consulta", "inquiry", "query", "indagación", "búsqueda"],
+    "búsqueda": ["consulta", "inquiry", "query", "indagación", "interrogación"]
+}
